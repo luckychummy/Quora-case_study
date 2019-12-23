@@ -1,6 +1,6 @@
 <h1> Quora Question Pairs </h1>
 
-1. Business Problem
+Business Problem
 
 1.1 Description
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
@@ -19,9 +19,7 @@ You would want a probability of a pair of questions to be duplicates so that you
 No strict latency concerns.
 Interpretability is partially important.
 
-2. Machine Learning Problem
-
-2.1 Data
+Machine Learning Problem
 
 2.1.1 Data Overview
 - Data will be in a file Train.csv
@@ -37,7 +35,7 @@ Interpretability is partially important.
 "7","15","16","How can I be a good geologist?","What should I do to be a great geologist?","1"
 "11","23","24","How do I read and find my YouTube comments?","How can I see all my Youtube comments?","1"
 
-2.2 Mapping the real world problem to an ML problem
+Mapping the real world problem to an ML problem
 
 2.2.1 Type of Machine Leaning Problem
 
